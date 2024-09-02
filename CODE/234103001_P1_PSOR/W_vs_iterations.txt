@@ -1,3 +1,0 @@
-Variables= "X","Y"
-zone T= "BLOCK1", I=10, J=10
-
